@@ -10,17 +10,17 @@ import java.util.List;
 public class Main {
 
 
-    public static void main(String[] args){
-
-        Box box = new Box();
-        box.set("a string");
-        String item = box.get(); // String item = (String) box.get();
-        System.out.print(item);
-
-        List list = new ArrayList();
-        list.add("hello");
-        String s = list.get(0);
-
-    }
+//    public static void main(String[] args){
+//
+//        Box box = new Box();
+//        box.set("a string");
+//        String item = box.get(); // String item = (String) box.get();
+//        System.out.print(item);
+//
+//        List list = new ArrayList();
+//        list.add("hello");
+//        String s = list.get(0);
+//
+//    }
 
 }
